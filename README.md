@@ -15,6 +15,7 @@ Pandas is a tool for data processing based on NumPy,created to solve data analys
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
 
