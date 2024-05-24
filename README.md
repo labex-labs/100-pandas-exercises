@@ -1,6 +1,6 @@
 # 100 Pandas Exercises
 
-![100 Pandas Exercises](https://cover-creator.labex.io/100-pandas-exercises.png)
+![100 Pandas Exercises](https://cover-creator.appbot.io/100-pandas-exercises.png)
 
 Pandas is a tool for data processing based on NumPy,created to solve data analysis tasks. Pandas incorporates a number of libraries and some standard data models, as well as provides the functions and the methods needed for efficiently manipulating large datasets.
 
