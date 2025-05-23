@@ -31,11 +31,11 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                       | 難易度   | 練習                                                                                         |
 |----------------|----------------------------|----------|----------------------------------------------------------------------------------------------|
-|              1 | 📖 100 Pandas エクササイズ | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/100-pandas-exercises-20747'>ラボを開始</a> |
+|              1 | 📖 100 Pandas エクササイズ | 初級     | <a target='_blank' href='https://labex.io/ja/labs/100-pandas-exercises-20747'>ラボを開始</a> |
 
 ## その他
 
-- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Pandas Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- 🔗 [Pandas プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Pandas 無料チュートリアル](https://github.com/labex-labs/pandas-free-tutorials)
 
