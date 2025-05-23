@@ -31,11 +31,11 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                    | 난이도   | 연습                                                                                        |
 |----------|-------------------------|----------|---------------------------------------------------------------------------------------------|
-|        1 | 📖 100 Pandas 연습 문제 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/100-pandas-exercises-20747'>실습 시작</a> |
+|        1 | 📖 100 Pandas 연습 문제 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/100-pandas-exercises-20747'>실습 시작</a> |
 
 ## 더 보기
 
-- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Pandas Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- 🔗 [Pandas 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Pandas 무료 튜토리얼](https://github.com/labex-labs/pandas-free-tutorials)
 
