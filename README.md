@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![100 Pandas Exercises](https://cover-creator.labex.io/100-pandas-exercises.png)](https://labex.io/en/courses/100-pandas-exercises)
+[![100 Pandas Exercises](https://cover-creator.labex.io/100-pandas-exercises.png)](https://labex.io/courses/100-pandas-exercises)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/100-pandas-exercises)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/100-pandas-exercises)
 
 Pandas is a tool for data processing based on NumPy,created to solve data analysis tasks. Pandas incorporates a number of libraries and some standard data models, as well as provides the functions and the methods needed for efficiently manipulating large datasets.
 
@@ -29,9 +29,9 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                    | Difficulty   | Practice                                                                                    |
-|---------|-------------------------|--------------|---------------------------------------------------------------------------------------------|
-|       1 | 📖 100 Pandas Exercises | ★☆☆          | <a target='_blank' href='https://labex.io/en/labs/100-pandas-exercises-20747'>Start Lab</a> |
+|   Index | Name                    | Difficulty   | Practice                                                                                 |
+|---------|-------------------------|--------------|------------------------------------------------------------------------------------------|
+|       1 | 📖 100 Pandas Exercises | Beginner     | <a target='_blank' href='https://labex.io/labs/100-pandas-exercises-20747'>Start Lab</a> |
 
 ## More
 
