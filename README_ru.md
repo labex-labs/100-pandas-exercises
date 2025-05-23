@@ -31,11 +31,11 @@ LabEx - это интерактивная практическая обучаю�
 
 |   Индекс | Название                    | Сложность   | Практика                                                                                             |
 |----------|-----------------------------|-------------|------------------------------------------------------------------------------------------------------|
-|        1 | 📖 100 упражнений по Pandas | ★☆☆         | <a target='_blank' href='https://labex.io/ru/labs/100-pandas-exercises-20747'>Начать Лабораторию</a> |
+|        1 | 📖 100 упражнений по Pandas | Начинающий  | <a target='_blank' href='https://labex.io/ru/labs/100-pandas-exercises-20747'>Начать Лабораторию</a> |
 
 ## Больше
 
-- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Pandas Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- 🔗 [Pandas Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Pandas Бесплатные туториалы](https://github.com/labex-labs/pandas-free-tutorials)
 
