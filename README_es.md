@@ -31,11 +31,11 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                      | Dificultad   | Práctica                                                                                              |
 |----------|-----------------------------|--------------|-------------------------------------------------------------------------------------------------------|
-|        1 | 📖 100 Ejercicios de Pandas | ★☆☆          | <a target='_blank' href='https://labex.io/es/labs/100-pandas-exercises-20747'>Iniciar Laboratorio</a> |
+|        1 | 📖 100 Ejercicios de Pandas | Principiante | <a target='_blank' href='https://labex.io/es/labs/100-pandas-exercises-20747'>Iniciar Laboratorio</a> |
 
 ## Más
 
-- 🔗 [Pandas Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Pandas Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Pandas Free Tutorials](https://github.com/labex-labs/pandas-free-tutorials)
+- 🔗 [Pandas Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Pandas Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Pandas Tutoriales Gratuitos](https://github.com/labex-labs/pandas-free-tutorials)
 
