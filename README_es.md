@@ -13,6 +13,12 @@ Pandas es una herramienta de procesamiento de datos basada en NumPy, creada para
 ![Pandas](https://img.shields.io/badge/Pandas-whitesmoke?style=for-the-badge&logo=pandas)
 
 
+## Ejercicios
+
+|   Índice | Nombre                         | Dificultad   | Práctica                                                                                              |
+|----------|--------------------------------|--------------|-------------------------------------------------------------------------------------------------------|
+|        1 | 📖 🟢 100 Ejercicios de Pandas | Principiante | <a target='_blank' href='https://labex.io/es/labs/100-pandas-exercises-20747'>Iniciar Laboratorio</a> |
+
 ## Entorno
 
 LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos.
@@ -23,15 +29,9 @@ LabEx es una plataforma de aprendizaje interactiva y práctica dedicada a la pro
 - Entornos en línea interactivos dentro del navegador, con verificaciones paso a paso automatizadas.
 - Una organización de contenido estructurada con el sistema basado en Árbol de Habilidades.
 - Un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios.
-- El asistente de aprendizaje de IA Labby, construido sobre ChatGPT, que proporciona una experiencia de aprendizaje conversacional.
+- El asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
 
 Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Ejercicios
-
-|   Índice | Nombre                      | Dificultad   | Práctica                                                                                              |
-|----------|-----------------------------|--------------|-------------------------------------------------------------------------------------------------------|
-|        1 | 📖 100 Ejercicios de Pandas | Principiante | <a target='_blank' href='https://labex.io/es/labs/100-pandas-exercises-20747'>Iniciar Laboratorio</a> |
 
 ## Más
 
