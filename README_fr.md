@@ -15,9 +15,9 @@ Pandas est un outil de traitement de données basé sur NumPy, conçu pour réso
 
 ## Exercices
 
-|   Index | Nom                             | Difficulté   | Pratique                                                                                           |
-|---------|---------------------------------|--------------|----------------------------------------------------------------------------------------------------|
-|       1 | 📖 🟢 100 Exercices avec Pandas | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/100-pandas-exercises-20747'>Commencer le Lab</a> |
+|   Index | Nom                        | Difficulté   | Pratique                                                                                           |
+|---------|----------------------------|--------------|----------------------------------------------------------------------------------------------------|
+|       1 | 📖 🆓 100 Exercices Pandas | Débutant     | <a target='_blank' href='https://labex.io/fr/labs/100-pandas-exercises-20747'>Commencer le Lab</a> |
 
 ## Environnement
 
