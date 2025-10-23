@@ -15,13 +15,13 @@ Pandas ist ein auf NumPy basierendes Tool zur Datenverarbeitung, das zur Lösung
 
 ## Übungen
 
-|   Index | Name                     | Schwierigkeit   | Übung                                                                                           |
-|---------|--------------------------|-----------------|-------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 100 Pandas Übungen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/100-pandas-exercises-20747'>Labor Starten</a> |
+|   Index | Name                     | Schwierigkeit   | Übung                                                                                                                       |
+|---------|--------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 100 Pandas Übungen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/100-pandas-exercises-20747?course=100-pandas-exercises'>Labor Starten</a> |
 
 ## Über LabEx
 
-LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, bietet LabEx umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
+[LabEx](https://labex.io) ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, [LabEx](https://labex.io) bietet umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
 
 ## Mehr
 
