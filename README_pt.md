@@ -15,13 +15,13 @@ Pandas é uma ferramenta para processamento de dados baseada em NumPy, criada pa
 
 ## Exercícios
 
-|   Índice | Nome                        | Dificuldade   | Prática                                                                                       |
-|----------|-----------------------------|---------------|-----------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 100 Exercícios Pandas | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/100-pandas-exercises-20747'>Iniciar Lab</a> |
+|   Índice | Nome                        | Dificuldade   | Prática                                                                                                                   |
+|----------|-----------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩 🆓 100 Exercícios Pandas | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/100-pandas-exercises-20747?course=100-pandas-exercises'>Iniciar Lab</a> |
 
 ## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
+[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
